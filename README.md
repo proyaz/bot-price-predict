@@ -1,6 +1,12 @@
 # XRP Price Prediction using Gradient Boosting Regressor and Time Series Cross-Validation
 This repository contains an experimental approach to predict XRP (Ripple) cryptocurrency prices using the Gradient Boosting Regressor model and Time Series Cross-Validation.
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Dataset](#dataset)
+- [Usage](#usage)
+- [Disclaimer](#disclaimer)
 
 ## Installation
 To install the required libraries, run the following command:
